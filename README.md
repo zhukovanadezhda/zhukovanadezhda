@@ -45,7 +45,14 @@
   </a>
 </div>
 
-
 <h3>Machine learning<h3>
   
 [![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false)](https://github.com/zhukovanadezhda/housing-prices)
+ 
+ <h3>Databases<h3>
+  
+ <a href="https://github.com/zhukovanadezhda/ecommerce-database">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=ecommerce-database&show_owner=false">
+  </a>
+
+ 
