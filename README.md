@@ -27,9 +27,9 @@
 
 <h3>Statistics<h3>
   
-[![World happiness](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false)](https://github.com/zhukovanadezhda/EDA-of-World-Happiness)
+(https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false)(https://github.com/zhukovanadezhda/EDA-of-World-Happiness)
   
-[![Goodreads-books](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Goodreads-books&show_owner=false)](https://github.com/zhukovanadezhda/Statistical-hypothesis-testing)
+[![Goodreads-books](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Statistical-hypothesis-testing&show_owner=false)](https://github.com/zhukovanadezhda/Statistical-hypothesis-testing)
 
 [![Exam results](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=false)](https://github.com/zhukovanadezhda/analyse-statistique-de-donnees)
  
