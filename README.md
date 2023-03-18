@@ -9,7 +9,7 @@ I am mostly interested in statistics, machine learning and deep learning, neuros
 <a href="https://kaggle.com/nadezhdazhukova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nadezhdazhukova" height="30" width="40" /></a>
 <a href="https://instagram.com/nadiyazhukova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadiyazhukova" height="30" width="40" /></a>
 </p>
-<br><br>
+<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhukovanadezhda&show_icons=true&locale=en" alt="zhukovanadezhda" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhukovanadezhda" alt="zhukovanadezhda" /></a> </p>
