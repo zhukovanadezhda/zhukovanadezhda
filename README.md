@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadya</h1>
-<h3 align="center">I am a bioinformatics student in Université Paris Cité</h3>
+<h3 align="center">I am a bioinformatics student in Université Paris Cité, Paris, France</h3>
 <p align="center"> 📫 How to reach me <b>nadiajuckova@gmail.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
