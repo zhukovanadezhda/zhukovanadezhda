@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadya</h1>
 <h3 align="center">I am a bioinformatics student in Université Paris Cité, Paris, France</h3>
-I am mostly interested in statistics, machine learning and deep learning, neurosciences/psychiatry and NGS data analysis. Apart from work, I like travelling, film photography and doing sports. I speak English, French and Russian. Feel free to contact me for any reason.
+I am mostly interested in statistics, machine learning and deep learning, neurosciences/psychiatry and NGS data analysis. Apart from work, I like travelling, film photography and doing sports. I speak English, French and Russian. Feel free to contact me for any reason. <br>
 <p align="center"> 📫 How to reach me: <b>nadiajuckova@gmail.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
