@@ -32,20 +32,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=hiv-2-protease&show_owner=false">
   </a>
  
-  <a href="https://github.com/zhukovanadezhda/EDA-of-World-Happiness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false">
+  <a href="https://github.com/zhukovanadezhda/world-happiness">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=world-happiness&show_owner=false">
   </a>
   
-  <a href="https://github.com/zhukovanadezhda/Statistical-hypothesis-testing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Statistical-hypothesis-testing&show_owner=false">
+  <a href="https://github.com/zhukovanadezhda/goodreads-books">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=goodreads-books&show_owner=false">
   </a>
 
-  <a href="https://github.com/zhukovanadezhda/analyse-statistique-de-donnees">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=false">
+  <a href="https://github.com/zhukovanadezhda/exam-results">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=exam-results&show_owner=false">
   </a>
 </div>
 
 
 <h3>Machine learning<h3>
   
-[![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Machine-Learning-models-of-Housing-Prices&show_owner=false)](https://github.com/zhukovanadezhda/Machine-Learning-models-of-Housing-Prices)
+[![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false)](https://github.com/zhukovanadezhda/housing-prices)
