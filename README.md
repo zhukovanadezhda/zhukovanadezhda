@@ -22,6 +22,4 @@
 
 <h3>Statistics<h3>
 
-[![R analysis](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=true)](https://github.com/zhukovanadezhda/analyse-statistique-de-donnees)
-
 
