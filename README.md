@@ -28,6 +28,10 @@
 <h3>Statistics<h3>
   
 <div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/zhukovanadezhda/hiv-2-protease">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=hiv-2-protease&show_owner=false">
+  </a>
+ 
   <a href="https://github.com/zhukovanadezhda/EDA-of-World-Happiness">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false">
   </a>
