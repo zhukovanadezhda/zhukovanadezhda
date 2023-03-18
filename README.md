@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadya</h1>
 <h3 align="center">I am a bioinformatics student in Université Paris Cité, Paris, France</h3>
-<p align="center"> 📫 How to reach me <b>nadiajuckova@gmail.com</b></p>
+<p align="center"> 📫 How to reach me: <b>nadiajuckova@gmail.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,6 +24,12 @@
 <h3>Current<h3>
  
 [![Bioinformatics software](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)](https://github.com/zhukovanadezhda/bioinformatics-software)
+ 
+<h3>Bioinformatics<h3>
+  
+<a href="https://github.com/zhukovanadezhda/smith-waterman">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=smith-waterman&show_owner=false">
+</a>
 
 <h3>Statistics<h3>
   
