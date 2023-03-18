@@ -27,15 +27,20 @@
 
 <h3>Statistics<h3>
   
-(https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false)(https://github.com/zhukovanadezhda/EDA-of-World-Happiness)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/zhukovanadezhda/EDA-of-World-Happiness">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false">
+  </a>
   
-[![Goodreads-books](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Statistical-hypothesis-testing&show_owner=false)](https://github.com/zhukovanadezhda/Statistical-hypothesis-testing)
+  <a href="https://github.com/zhukovanadezhda/Statistical-hypothesis-testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Statistical-hypothesis-testing&show_owner=false">
+  </a>
 
-[![Exam results](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=false)](https://github.com/zhukovanadezhda/analyse-statistique-de-donnees)
- 
-<h3>Databases</h3>
- 
-[![Online shop](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=ecommerce-database&show_owner=false)](https://github.com/zhukovanadezhda/ecommerce-database)
+  <a href="https://github.com/zhukovanadezhda/analyse-statistique-de-donnees">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=false">
+  </a>
+</div>
+
 
 <h3>Machine learning<h3>
   
