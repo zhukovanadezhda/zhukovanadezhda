@@ -23,20 +23,20 @@
 
 <h3>Current<h3>
  
-[![Bioinformatics software](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=true)](https://github.com/zhukovanadezhda/bioinformatics-software)
+[![Bioinformatics software](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)](https://github.com/zhukovanadezhda/bioinformatics-software)
 
 <h3>Statistics<h3>
   
-[![World happiness](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=true)](https://github.com/zhukovanadezhda/EDA-of-World-Happiness)
+[![World happiness](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=EDA-of-World-Happiness&show_owner=false)](https://github.com/zhukovanadezhda/EDA-of-World-Happiness)
   
-[![Goodreads-books](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Statistical-hypothesis-testing&show_owner=true)](https://github.com/zhukovanadezhda/Statistical-hypothesis-testing)
+[![Goodreads-books](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Statistical-hypothesis-testing&show_owner=false)](https://github.com/zhukovanadezhda/Statistical-hypothesis-testing)
 
-[![Exam results](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=true)](https://github.com/zhukovanadezhda/analyse-statistique-de-donnees)
+[![Exam results](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=analyse-statistique-de-donnees&show_owner=false)](https://github.com/zhukovanadezhda/analyse-statistique-de-donnees)
  
 <h3>Databases</h3>
  
-[![Online shop](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=ecommerce-database&show_owner=true)](https://github.com/zhukovanadezhda/ecommerce-database)
+[![Online shop](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=ecommerce-database&show_owner=false)](https://github.com/zhukovanadezhda/ecommerce-database)
 
 <h3>Machine learning<h3>
   
-[![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Machine-Learning-models-of-Housing-Prices&show_owner=true)](https://github.com/zhukovanadezhda/Machine-Learning-models-of-Housing-Prices)
+[![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=Machine-Learning-models-of-Housing-Prices&show_owner=false)](https://github.com/zhukovanadezhda/Machine-Learning-models-of-Housing-Prices)
