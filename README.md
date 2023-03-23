@@ -62,8 +62,8 @@ I am mostly interested in statistics, machine learning and deep learning, comput
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false">
 </a>
  
- <a href="https://github.com/zhukovanadezhda/psyner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psyner&show_owner=false">
+ <a href="https://github.com/zhukovanadezhda/psy-ner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psy-ner&show_owner=false">
  </a>
 </div>
  
