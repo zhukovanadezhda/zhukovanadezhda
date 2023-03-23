@@ -24,7 +24,9 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 
 <h3>Current<h3>
  
-[![Bioinformatics software](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)](https://github.com/zhukovanadezhda/bioinformatics-software)
+<a href="https://github.com/zhukovanadezhda/bioinformatics-software">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
+</a>
  
 <h3>Bioinformatics<h3>
   
@@ -54,11 +56,16 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 
 <h3>Machine learning & NLP<h3>
   
-[![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false)](https://github.com/zhukovanadezhda/housing-prices)
+<div style="display: flex; justify-content: space-between;">
+  
+<a href="https://github.com/zhukovanadezhda/housing-prices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false">
+</a>
  
  <a href="https://github.com/zhukovanadezhda/psyner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psyner&show_owner=false">
-  </a>
+ </a>
+</div>
  
  <h3>Databases<h3>
   
