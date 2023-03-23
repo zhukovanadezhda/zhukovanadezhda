@@ -52,9 +52,13 @@ I am mostly interested in statistics, machine learning and deep learning, comput
   </a>
 </div>
 
-<h3>Machine learning<h3>
+<h3>Machine learning & NLP<h3>
   
 [![Housing Prices](https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false)](https://github.com/zhukovanadezhda/housing-prices)
+ 
+ <a href="https://github.com/zhukovanadezhda/psyner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psyner&show_owner=false">
+  </a>
  
  <h3>Databases<h3>
   
