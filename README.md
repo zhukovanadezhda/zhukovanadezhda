@@ -23,16 +23,29 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 <h2>Projects</h2>
 
 <h3>Current<h3>
+
+<div style="display: flex; justify-content: space-between;">
+ <a href="https://github.com/zhukovanadezhda/bioinformatics-software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
+ </a>
  
-<a href="https://github.com/zhukovanadezhda/bioinformatics-software">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
-</a>
- 
+ <a href="https://github.com/zhukovanadezhda/psy-ner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psy-ner&show_owner=false">
+ </a>
+</div>
+
+
 <h3>Bioinformatics<h3>
-  
+
+<div style="display: flex; justify-content: space-between;">
+ <a href="https://github.com/zhukovanadezhda/bioinformatics-software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
+ </a>
+ 
 <a href="https://github.com/zhukovanadezhda/smith-waterman">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=smith-waterman&show_owner=false">
 </a>
+</div>
 
 <h3>Statistics<h3>
   
