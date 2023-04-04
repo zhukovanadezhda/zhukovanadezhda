@@ -45,6 +45,10 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 <a href="https://github.com/zhukovanadezhda/smith-waterman">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=smith-waterman&show_owner=false">
 </a>
+ 
+<a href="https://github.com/zhukovanadezhda/PanGenAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=PanGenAI&show_owner=false">
+</a>
 </div>
 
 <h3>Statistics<h3>
