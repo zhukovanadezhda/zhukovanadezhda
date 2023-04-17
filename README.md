@@ -36,10 +36,7 @@ I am mostly interested in statistics, machine learning and deep learning, comput
  <a href="https://github.com/zhukovanadezhda/dinucleo-freq">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=dinucleo-freq&show_owner=false">
  </a>
- 
- <a href="https://github.com/zhukovanadezhda/metabol-sign">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=metabol-sign&show_owner=false">
- </a>
+
 </div>
 
 
