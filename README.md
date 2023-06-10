@@ -33,8 +33,8 @@ I am mostly interested in statistics, machine learning and deep learning, comput
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psy-ner&show_owner=false">
  </a>
  
- <a href="https://github.com/zhukovanadezhda/dinucleo-freq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=dinucleo-freq&show_owner=false">
+ <a href="https://github.com/zhukovanadezhda/rosalind-problems">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=rosalind-problems&show_owner=false">
  </a>
 
 </div>
@@ -58,7 +58,11 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 <a href="https://github.com/zhukovanadezhda/PanGenAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=PanGenAI&show_owner=false">
 </a>
-</div>
+ </div>
+ 
+ <a href="https://github.com/zhukovanadezhda/rosalind-problems">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=rosalind-problems&show_owner=false">
+ </a>
 
 <h3>Statistics<h3>
   
