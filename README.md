@@ -29,8 +29,8 @@ I am mostly interested in statistics, machine learning and deep learning, comput
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
  </a>
  
- <a href="https://github.com/zhukovanadezhda/IPNP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=IPNP&show_owner=false">
+ <a href="https://github.com/zhukovanadezhda/schizophrenia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=schizophrenia&show_owner=false">
  </a>
 
 
