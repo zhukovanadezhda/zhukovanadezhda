@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Nadya 👩🏻‍🦰</h1>
-<h3 align="center">I am a bioinformatics student at Université Paris Cité and bioinformatician at the Institute of Psychiatry and Neurosciences of Paris</h3>
+<h3 align="center">I am a bioinformatics student at Université Paris Cité 🎓🔬 & <br> a bioinformatician at the Institute of Psychiatry and Neurosciences of Paris 🧠🧬</h3>
 I am mostly interested in statistics, machine learning and deep learning, computational neurosciences, and psychiatry as well as NGS data analysis. Apart from work, I like traveling, film photography, and doing sports. I speak English, French, and Russian. Feel free to contact me for any reason. <br><br>
 <p align="center"> 📫 How to reach me: <b>nadiajuckova@gmail.com</b> 📫</p>
 
