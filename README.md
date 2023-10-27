@@ -16,7 +16,7 @@ I am mostly interested in statistics, machine learning and deep learning, comput
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhukovanadezhda&theme=dracula" alt="Most Commit Language">
 </p>
 
-<br><br>
+<br>
 <h2>Projects</h2>
 
 <h3>Current<h3>
