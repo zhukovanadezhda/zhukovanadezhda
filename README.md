@@ -51,6 +51,7 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 |--|--|
 | [Scizophrenia WGS study](https://github.com/zhukovanadezhda/schizophrenia) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/schizophrenia" alt="language"/> |
 | [Psy-NER model](https://github.com/zhukovanadezhda/psy-ner) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/psy-ner" alt="language"/> |
+| [Web API for a ML model](https://github.com/zhukovanadezhda/web-api) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/web-api" alt="language"/> |
 | [E-commerce database modelisation](https://github.com/zhukovanadezhda/ecommerce-database) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/ecommerce-database" alt="language"/> |
 | [Housing prices prediction](https://github.com/zhukovanadezhda/housing-prices) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/housing-prices" alt="language"/> |
 </td></tr>
