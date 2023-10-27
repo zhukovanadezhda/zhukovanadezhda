@@ -17,84 +17,42 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 </p>
 
 <br>
-<h2>Projects</h2>
 
-<h3>Current<h3>
-
-<div style="display: flex; justify-content: space-between;">
- <a href="https://github.com/zhukovanadezhda/bioinformatics-software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
- </a>
- 
- <a href="https://github.com/zhukovanadezhda/schizophrenia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=schizophrenia&show_owner=false">
- </a>
-
-
-</div>
-
-
-<h3>Bioinformatics<h3>
-
-<div style="display: flex; justify-content: space-between;">
- <a href="https://github.com/zhukovanadezhda/bioinformatics-software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=bioinformatics-software&show_owner=false)">
- </a>
- 
-<a href="https://github.com/zhukovanadezhda/smith-waterman">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=smith-waterman&show_owner=false">
-</a>
- 
-<a href="https://github.com/zhukovanadezhda/dinucleo-freq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=dinucleo-freq&show_owner=false">
-</a>
- 
-<a href="https://github.com/zhukovanadezhda/PanGenAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=PanGenAI&show_owner=false">
-</a>
- </div>
- 
- <a href="https://github.com/zhukovanadezhda/rosalind-problems">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=rosalind-problems&show_owner=false">
- </a>
-
-<h3>Statistics<h3>
+<h1 align="center">🖥️ Projects 💡</h1> 
+<table align="center">
+<tr><th>Bioinformatics </th><th>Statistics</th></tr>
+<tr><td>
   
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/zhukovanadezhda/hiv-2-protease">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=hiv-2-protease&show_owner=false">
-  </a>
- 
-  <a href="https://github.com/zhukovanadezhda/world-happiness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=world-happiness&show_owner=false">
-  </a>
-  
-  <a href="https://github.com/zhukovanadezhda/goodreads-books">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=goodreads-books&show_owner=false">
-  </a>
+|Title | Language|
+|--|--|
+| [Bioinformatics software analysis](https://github.com/zhukovanadezhda/bioinformatics-software) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/bioinformatics-software" alt="language"/> |
+| [Smith-Waterman alignment tool](https://github.com/zhukovanadezhda/smith-waterman) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/smith-waterman" alt="language"/> |
+| [Dinucleotide frequencies in model organisms](https://github.com/zhukovanadezhda/dinucleo-freq) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/dinucleo-freq" alt="language"/> |
+| [Pangenome graph clustering analysis](https://github.com/zhukovanadezhda/PanGenAI) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/PanGenAI" alt="language"/> |
+| [Rosalind problems solutions](https://github.com/zhukovanadezhda/rosalind-problems) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/rosalind-problems" alt="language"/> |
 
-  <a href="https://github.com/zhukovanadezhda/exam-results">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=exam-results&show_owner=false">
-  </a>
-</div>
+</td><td>
 
-<h3>Machine learning & NLP<h3>
-  
-<div style="display: flex; justify-content: space-between;">
-  
-<a href="https://github.com/zhukovanadezhda/housing-prices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=housing-prices&show_owner=false">
-</a>
- 
- <a href="https://github.com/zhukovanadezhda/psy-ner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=psy-ner&show_owner=false">
- </a>
-</div>
- 
- <h3>Databases<h3>
-  
- <a href="https://github.com/zhukovanadezhda/ecommerce-database">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukovanadezhda&repo=ecommerce-database&show_owner=false">
-  </a>
+|Title | Language|
+|--|--|
+| [HIV protease study](https://github.com/zhukovanadezhda/hiv-2-protease) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/hiv-2-protease" alt="language"/> |
+| [Exam results study](https://github.com/zhukovanadezhda/exam-results) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/exam-results" alt="language"/> |
+| [World happiness study](https://github.com/zhukovanadezhda/world-happiness) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/world-happiness" alt="language"/> |
+| [Books study](https://github.com/zhukovanadezhda/goodreads-books) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/goodreads-books" alt="language"/> |
 
+</td></tr>
+</table>
+
+<table align="center">
+<tr><th>Other </th></tr>
+<tr><td>
+  
+|Title | Language|
+|--|--|
+| [Scizophrenia WGS study](https://github.com/zhukovanadezhda/schizophrenia) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/schizophrenia" alt="language"/> |
+| [Psy-NER model](https://github.com/zhukovanadezhda/psy-ner) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/psy-ner" alt="language"/> |
+| [E-commerce database modelisation](https://github.com/zhukovanadezhda/ecommerce-database) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/ecommerce-database" alt="language"/> |
+| [Housing prices prediction](https://github.com/zhukovanadezhda/housing-prices) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/housing-prices" alt="language"/> |
+</td></tr>
+</table>
  
