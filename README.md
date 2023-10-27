@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Nadya 👩🏻‍🦰</h1>
 <h3 align="center">I am a bioinformatics student at Université Paris Cité 🎓🔬 & <br> a bioinformatician at the Institute of Psychiatry and Neurosciences of Paris 🧠🧬</h3>
-I am mostly interested in statistics, machine learning and deep learning, computational psychiatry and mental health in general as well as NGS data analysis. Apart from work, I like traveling, film photography, and doing sports. I speak English, French, and Russian. Feel free to contact me for any reason. <br><br>
+I am mostly interested in statistics, machine learning and deep learning, computational psychiatry, and mental health in general as well as NGS data analysis. Apart from work, I like traveling, film photography, and doing sports. I speak English, French, and Russian. Feel free to contact me for any reason. <br><br>
 <p align="center"> 📫 How to reach me: <b>nadiajuckova@gmail.com</b> 📫</p>
 
 <h3 align="center">Connect with me:</h3>
@@ -28,7 +28,7 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 | [Bioinformatics software analysis](https://github.com/zhukovanadezhda/bioinformatics-software) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/bioinformatics-software" alt="language"/> |
 | [Smith-Waterman alignment tool](https://github.com/zhukovanadezhda/smith-waterman) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/smith-waterman" alt="language"/> |
 | [Dinucleotide frequencies in model organisms](https://github.com/zhukovanadezhda/dinucleo-freq) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/dinucleo-freq" alt="language"/> |
-| [Pangenome graph clustering analysis](https://github.com/zhukovanadezhda/PanGenAI) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/PanGenAI" alt="language"/> |
+| [Pangenome graph clustering](https://github.com/zhukovanadezhda/PanGenAI) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/PanGenAI" alt="language"/> |
 | [Rosalind problems solutions](https://github.com/zhukovanadezhda/rosalind-problems) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/rosalind-problems" alt="language"/> |
 
 </td><td>
