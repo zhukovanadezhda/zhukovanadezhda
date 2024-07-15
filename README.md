@@ -17,12 +17,13 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 </p>
 
 <br>
-
+<!--
 <h1 align="center">🖥️ Projects 💡</h1> 
 <table align="center">
 <tr><th>Bioinformatics </th><th>Statistics</th></tr>
-<tr><td>
-  
+<tr><td> -->
+
+<!--
 |Title | Language|
 |--|--|
 | [Bioinformatics software analysis](https://github.com/zhukovanadezhda/bioinformatics-software) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/bioinformatics-software" alt="language"/> |
@@ -54,4 +55,5 @@ I am mostly interested in statistics, machine learning and deep learning, comput
 | [E-commerce database modelisation](https://github.com/zhukovanadezhda/ecommerce-database) | <img src="https://img.shields.io/github/languages/top/zhukovanadezhda/ecommerce-database" alt="language"/> |
 </td></tr>
 </table>
+-->
  
