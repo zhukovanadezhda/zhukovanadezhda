@@ -4,7 +4,7 @@
   
   I hold a bachelor's and master's degree in bioinformatics, as well as experience in precision psychiatry and broader data analysis. So, in recent years, I've primarily worked with data, seeing how statistics and computer science can make a real, noticeable contribution to solving healthcare problems, even using simple methods. 
   
-  However, over time, I've become more and more captivated by the beauty of the methods themselves, beyond their immediate application to data. So, I now see myself more at the intersection of theoretical and applied science: I still want my work to be meaningful and useful, but with rigorous and carefully crafted methods (and maybe some nerdy time to explore them and prove things 🤓). I also really enjoy developing things, thinking about different architectures, and code improvements. 
+  However, over time, I've become more and more captivated by the beauty of the methods themselves, beyond their immediate application to data. So, I now see myself more at the intersection of theoretical and applied science: I still want my work to be meaningful and useful, but with rigorous and carefully crafted methods (and maybe some nerdy time to explore them and prove why they work 🤓). I also really enjoy developing things, thinking about different architectures, and code improvements. 
   
   With that in mind, I’m currently looking for a final-year internship and exploring PhD opportunities in the field of applied maths & machine learning. 
 </p>
