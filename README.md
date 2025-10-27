@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋🏻, I'm Nadya 👩🏻‍🦰</h1>
-<h3 align="center">I am a bioinformatics student at Université Paris Cité 🎓🔬 & <br> a bioinformatician at the Institute of Psychiatry and Neurosciences of Paris 🧠🧬</h3>
-I am mostly interested in statistics, machine learning and deep learning, computational psychiatry, and mental health in general. Apart from work, I like traveling, film photography, and doing sports. I speak English, French, and Russian. Feel free to contact me for any reason. <br><br>
-<p align="center"> 📫 How to reach me: <b>nadiajuckova@gmail.com</b> 📫</p>
+<h1 align="center">Hi 👋🏻, I'm Nadya 👩🏻‍🦰</h1> 
+<h3 align="center">Machine Learning student in the IASD (Artificial Intelligence, Systems & Data) program across Université Paris Dauphine–PSL, ENS & Mines Paris 🎓</h3> 
+<p align="center"> 
+  
+  I hold a bachelor's and master's degree in bioinformatics, as well as experience in precision psychiatry and broader data analysis. So, in recent years, I've primarily worked with data, seeing how statistics and computer science can make a real, noticeable contribution to solving healthcare problems, even using simple methods. 
+  
+  However, over time, I've become more and more captivated by the beauty of the methods themselves, beyond their immediate application to data. So, I now see myself more at the intersection of theoretical and applied science: I still want my work to be meaningful and useful, but with rigorous and carefully crafted methods (and maybe some nerdy time to explore them and prove things 🤓). I also really enjoy developing things, thinking about different architectures, and code improvements. 
+  
+  With that in mind, I’m currently looking for a final-year internship and exploring PhD opportunities in the field of applied maths & machine learning. 
+</p>
+
+<p align="center"> 📫 Feel free to reach me: <b>nadiajuckova@gmail.com</b> 📫</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
