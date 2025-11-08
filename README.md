@@ -2,11 +2,11 @@
 <h3 align="center">Machine Learning student in the IASD (Artificial Intelligence, Systems & Data) program across Université Paris Dauphine–PSL, ENS & Mines Paris 🎓</h3> 
 <p align="center"> 
   
-  I hold a bachelor's and master's degree in bioinformatics, as well as experience in precision psychiatry and broader data analysis. So, in recent years, I've primarily worked with data, seeing how statistics and computer science can make a real, noticeable contribution to solving healthcare problems, even using simple methods. 
+I have a BSc & MSc in bioinformatics and experience in biomedical data analysis and precision medicine. Over the years, I’ve mostly worked with data, seeing how stats and code can make an impact in healthcare, even with simple methods.
+
+Lately, I’ve become more interested in the methods themselves (the theory, the math, the “why it works” - beyond the data). I now see myself at the crossroads of applied and theoretical research: still focused on building useful things, but also enjoying the nerdy side of exploring, understanding, and improving how they work. And I really like clean code and elegant solutions 🤓. 
   
-  However, over time, I've become more and more captivated by the beauty of the methods themselves, beyond their immediate application to data. So, I now see myself more at the intersection of theoretical and applied science: I still want my work to be meaningful and useful, but with rigorous and carefully crafted methods (and maybe some nerdy time to explore them and prove why they work 🤓). I also really enjoy developing things, thinking about different architectures, and code improvements. 
-  
-  With that in mind, I’m currently looking for a final-year internship and exploring PhD opportunities in the field of applied maths & machine learning. 
+With that in mind, I’m currently looking for a final-year internship and exploring PhD opportunities in the field of applied maths & machine learning. 
 </p>
 
 <p align="center"> 📫 Feel free to reach me: <b>nadiajuckova@gmail.com</b> 📫</p>
